@@ -1,6 +1,6 @@
 <h5>IMPORTANT!!!</h5>
 <h5>Am folosit Sequelize ORM in loc de TypeORM deoarece il stapanesc mai bine</h5>
-<h5>Campurile id sunt Integre nu UUID, am incercat sa le fac UUID insa nu am reusit</h5>
+<h5>Campurile id sunt Integer nu UUID, am incercat sa le fac UUID insa nu am reusit</h5>
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
